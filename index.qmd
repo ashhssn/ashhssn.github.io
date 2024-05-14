@@ -18,6 +18,7 @@ An undergraduate at Singapore Institute of Technology pursuing a Bachelor of Sci
 Work experience includes the involvement in project management, research, prototyping, and software programming. 
 
 Projects:
+
 - Integrating fundamental Artificial Intelligence, Internet of Things, and Microcontroller to existing rehabilitative technology for elderly undergoing physical and cognitive therapy 
 - Research and prototyping using Near-Infrared (NIR) technology to aid in therapy
 
