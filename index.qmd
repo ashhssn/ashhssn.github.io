@@ -2,10 +2,25 @@
 title: "ashhssn"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+# Introduction
+
+## About me
+
+[Image of myself](imgs/profile.jpg)
+
+An undergraduate at Singapore Institute of Technology pursuing a Bachelor of Science with Honours in Applied Artificial Intelligence. 
+
+Work experience includes the involvement in project management, research, prototyping, and software programming. 
+
+Projects:
+- Integrating fundamental Artificial Intelligence, Internet of Things, and Microcontroller to existing rehabilitative technology for elderly undergoing physical and cognitive therapy 
+- Research and prototyping using Near-Infrared (NIR) technology to aid in therapy
+
+My area of expertise includes, but not limited to:
+Python Programming
+Object-Oriented Programming
+Machine Learning
+Data Structures and Algorithms
+Research

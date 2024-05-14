@@ -1,0 +1,20 @@
+# My project!
+
+## Engaging Rehabilitation
+Some projects that I have partake in includes the design of a therapeutical pet robot. I have also worked on a project that involves the integration of fundamental Artificial Intelligence, Internet of Things, and Microcontroller to existing rehabilitative technology for elderly undergoing physical and cognitive therapy.
+
+You can read more about my project here: [Engaging Rehabilitation](https://www.sp.edu.sg/engineering-cluster/eee/spii-showcase/engineering-show-2021/engaging-rehabilitation){target="_blank}
+
+## Mapletree Challenge 2024
+
+![Picture of me presenting](imgs/present.jpg)
+
+With the theme for Mapletree Challenge 2024 - Sustainability and Innovation, participants can look forward to an exciting line-up of pre-challenge activities, such as business proposition and financial literacy workshops, field trips to solar farms and NParks, and an entrepreneurship forum to prepare them for the Challenge.
+
+The Challenge aims to cultivate:
+- innovation
+- sustainability
+- technology
+- entrepreneurship
+
+You can read more about my project here: [Mapletree Challenge 2024](https://www.singaporetech.edu.sg/news/mapletree-empowers-aspiring-innovators-fifth-year-support-mapletree-challenge){target="_blank}
