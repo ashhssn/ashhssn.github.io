@@ -4,6 +4,7 @@ project:
 
 website:
   title: "ashhssn"
+  favicon: imgs/favicon.png
   navbar:
     logo: imgs/logo.jpg
     left:
