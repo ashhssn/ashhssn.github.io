@@ -5,6 +5,7 @@ project:
 website:
   title: "ashhssn"
   navbar:
+    logo: imgs/logo.jpg
     left:
       - href: index.qmd
         text: Home
@@ -15,7 +16,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 
