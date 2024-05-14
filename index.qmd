@@ -8,7 +8,7 @@ title: "ashhssn"
 
 ## About me
 
-[Image of myself](imgs/profile.jpg)
+![Image of myself](imgs/profile.jpg)
 
 An undergraduate at Singapore Institute of Technology pursuing a Bachelor of Science with Honors in Applied Artificial Intelligence. 
 
