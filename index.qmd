@@ -23,8 +23,10 @@ Projects:
 - Research and prototyping using Near-Infrared (NIR) technology to aid in therapy
 
 My area of expertise includes, but not limited to:
-Python Programming
-Object-Oriented Programming
-Machine Learning
-Data Structures and Algorithms
-Research
+
+1. Python Programming
+2. Object-Oriented Programming
+3. Machine Learning
+4. Data Structures and Algorithms
+5. Research
+
